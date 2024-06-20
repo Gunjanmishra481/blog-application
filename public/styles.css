@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label, input, textarea {
+  margin: 5px 0;
+}
+
+button {
+  margin-top: 10px;
+}
+
+a {
+  margin-top: 20px;
+  text-decoration: none;
+  color: #007BFF;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  max-width: 600px;
+}
+
+li h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+li p {
+  margin: 5px 0;
+}
+
+li form {
+  display: inline;
+}
