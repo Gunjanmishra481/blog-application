@@ -13,8 +13,6 @@ This is a simple Blog Application built using Node.js, Express, and EJS templati
 
 - **Node.js**: JavaScript runtime for the backend.
 - **Express.js**: Web application framework for Node.js.
-- **MongoDB**: NoSQL database for storing blog data.
-- **Mongoose**: ODM for MongoDB and Node.js.
 - **EJS**: Templating engine for rendering views.
 
 ## Prerequisites
