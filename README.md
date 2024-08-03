@@ -31,3 +31,9 @@ Make sure you have Node.js installed.
    ```bash
    git clone https://github.com/Gunjanmishra481/blog-application.git
    cd blog-application
+
+2. **Install dependencies:**
+   npm install
+
+3. **Start the application:**
+   npm start
